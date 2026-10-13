@@ -1,0 +1,13 @@
+team_id,team_name,team_type,region,current_monthly_budget_inr
+T01,Checkout & Payments,ecommerce,ap-south-1,2030000.0
+T02,Search & Discovery,ecommerce,ap-south-1,1970000.0
+T03,Recommendation ML,ml,ap-south-1,2995000.0
+T04,Data Platform,data,ap-south-1,2005000.0
+T05,Mobile App Backend,consumer,ap-south-1,1155000.0
+T06,Fraud & Risk Analytics,ml,ap-south-1,1285000.0
+T07,Customer Support Tech,internal,ap-south-1,305000.0
+T08,DevOps Platform,platform,ap-south-1,815000.0
+T09,Marketing Technology,consumer,ap-southeast-1,745000.0
+T10,Logistics & Supply Chain,ecommerce,ap-south-1,1010000.0
+T11,Finance Systems,finance,ap-south-1,460000.0
+T12,Security & Compliance,internal,eu-west-1,275000.0

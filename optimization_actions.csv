@@ -1,0 +1,17 @@
+action_id,action,service,min_saving_frac,max_saving_frac,business_impact_1to10,effort_1to5,risk,conflicts_or_depends_on
+A01,Stop forgotten / idle GPU instances,GPU,0.25,0.6,1,1,low,
+A02,Right-size over-provisioned compute instances,Compute,0.1,0.3,3,2,medium,A03
+A03,Shut down idle compute (dev/test off-hours schedule),Compute,0.08,0.25,2,1,low,A02
+A04,Move steady compute to Savings Plan / Reserved,Compute,0.15,0.35,1,2,low,
+A05,Move database to Reserved Instances,Database,0.15,0.3,1,2,low,
+A06,Right-size database instance class,Database,0.1,0.25,4,3,medium,A05
+A07,Delete orphaned snapshots and unattached volumes,Storage,0.1,0.35,1,1,low,
+A08,Move cold data to S3 Infrequent Access / Glacier,Storage,0.15,0.4,2,2,low,
+A09,Reduce log verbosity and retention,Monitoring,0.25,0.6,1,1,low,
+A10,Add CDN caching / compress cross-region traffic,Network,0.1,0.3,3,3,medium,
+A11,Scale down idle Kubernetes node groups,Containers,0.15,0.4,2,2,low,
+A12,Use spot instances for batch / training jobs,GPU,0.3,0.6,4,4,high,A01
+A13,Optimise Athena/Redshift queries and partitioning,Analytics,0.15,0.4,3,3,medium,
+A14,Cap serverless concurrency and fix retry loops,Serverless,0.1,0.35,2,2,low,
+A15,Pause non-critical analytics clusters off-hours,Analytics,0.1,0.25,2,2,low,A13
+A16,Auto-scaling cap during sale / event windows,Compute,0.05,0.15,5,3,high,

@@ -1,0 +1,144 @@
+event_id,event_name,event_type,start_date,end_date,affected_services,affected_team_types,true_uplift_pct,is_recurring,known_in_advance
+E001,Monthly Model Retraining,batch,2024-10-01,2024-10-03,GPU,ml,55.0,1,1
+E002,Gandhi Jayanti,holiday,2024-10-02,2024-10-02,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E003,Gandhi Jayanti,holiday,2024-10-02,2024-10-02,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E004,Dussehra,holiday,2024-10-12,2024-10-12,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E005,Dussehra,holiday,2024-10-12,2024-10-12,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E006,Quarterly Release & Load Test,release,2024-10-14,2024-10-18,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E007,Diwali Festive Sale,sale,2024-10-18,2024-11-03,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,40.0,0,1
+E008,Diwali Festive Sale,sale,2024-10-18,2024-11-03,Compute;Serverless;Containers,ml,14.0,0,1
+E009,Month-End Close,batch,2024-10-29,2024-10-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E010,Diwali,holiday,2024-10-31,2024-11-02,Compute;Network;Serverless;Database,ecommerce;consumer,20.0,0,1
+E011,Diwali,holiday,2024-10-31,2024-11-02,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E012,Monthly Model Retraining,batch,2024-11-01,2024-11-03,GPU,ml,55.0,1,1
+E013,Black Friday Sale,sale,2024-11-27,2024-12-01,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,35.0,0,1
+E014,Black Friday Sale,sale,2024-11-27,2024-12-01,Compute;Serverless;Containers,ml,12.2,0,1
+E015,Month-End Close,batch,2024-11-28,2024-11-30,Analytics;Database;Compute,data;finance,35.0,1,1
+E016,Monthly Model Retraining,batch,2024-12-01,2024-12-03,GPU,ml,55.0,1,1
+E017,Year-End Sale,sale,2024-12-24,2024-12-31,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,28.0,0,1
+E018,Year-End Sale,sale,2024-12-24,2024-12-31,Compute;Serverless;Containers,ml,9.8,0,1
+E019,Christmas,holiday,2024-12-25,2024-12-25,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E020,Christmas,holiday,2024-12-25,2024-12-25,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E021,Quarter-End Reporting,batch,2024-12-27,2024-12-31,Analytics;Database;Compute,data;finance,70.0,1,1
+E022,Monthly Model Retraining,batch,2025-01-01,2025-01-03,GPU,ml,55.0,1,1
+E023,New Year,holiday,2025-01-01,2025-01-01,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E024,New Year,holiday,2025-01-01,2025-01-01,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E025,Quarterly Release & Load Test,release,2025-01-13,2025-01-17,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E026,Republic Day Sale,sale,2025-01-22,2025-01-27,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,25.0,0,1
+E027,Republic Day Sale,sale,2025-01-22,2025-01-27,Compute;Serverless;Containers,ml,8.8,0,1
+E028,Republic Day,holiday,2025-01-26,2025-01-26,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E029,Republic Day,holiday,2025-01-26,2025-01-26,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E030,Month-End Close,batch,2025-01-29,2025-01-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E031,Monthly Model Retraining,batch,2025-02-01,2025-02-03,GPU,ml,55.0,1,1
+E032,Month-End Close,batch,2025-02-26,2025-02-28,Analytics;Database;Compute,data;finance,35.0,1,1
+E033,Monthly Model Retraining,batch,2025-03-01,2025-03-03,GPU,ml,55.0,1,1
+E034,Holi,holiday,2025-03-14,2025-03-14,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E035,Holi,holiday,2025-03-14,2025-03-14,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E036,Quarter-End Reporting,batch,2025-03-27,2025-03-31,Analytics;Database;Compute,data;finance,70.0,1,1
+E037,Eid al-Fitr,holiday,2025-03-31,2025-03-31,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E038,Eid al-Fitr,holiday,2025-03-31,2025-03-31,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E039,Monthly Model Retraining,batch,2025-04-01,2025-04-03,GPU,ml,55.0,1,1
+E040,Quarterly Release & Load Test,release,2025-04-14,2025-04-18,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E041,Month-End Close,batch,2025-04-28,2025-04-30,Analytics;Database;Compute,data;finance,35.0,1,1
+E042,Monthly Model Retraining,batch,2025-05-01,2025-05-03,GPU,ml,55.0,1,1
+E043,Summer Mega Sale,sale,2025-05-02,2025-05-06,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,20.0,0,1
+E044,Summer Mega Sale,sale,2025-05-02,2025-05-06,Compute;Serverless;Containers,ml,7.0,0,1
+E045,Month-End Close,batch,2025-05-29,2025-05-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E046,Monthly Model Retraining,batch,2025-06-01,2025-06-03,GPU,ml,55.0,1,1
+E047,End-of-Season Sale,sale,2025-06-26,2025-07-05,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,30.0,0,1
+E048,End-of-Season Sale,sale,2025-06-26,2025-07-05,Compute;Serverless;Containers,ml,10.5,0,1
+E049,Quarter-End Reporting,batch,2025-06-26,2025-06-30,Analytics;Database;Compute,data;finance,70.0,1,1
+E050,Monthly Model Retraining,batch,2025-07-01,2025-07-03,GPU,ml,55.0,1,1
+E051,Quarterly Release & Load Test,release,2025-07-14,2025-07-18,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E052,Month-End Close,batch,2025-07-29,2025-07-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E053,Monthly Model Retraining,batch,2025-08-01,2025-08-03,GPU,ml,55.0,1,1
+E054,Independence Day Sale,sale,2025-08-12,2025-08-16,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,22.0,0,1
+E055,Independence Day Sale,sale,2025-08-12,2025-08-16,Compute;Serverless;Containers,ml,7.7,0,1
+E056,Independence Day,holiday,2025-08-15,2025-08-15,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E057,Independence Day,holiday,2025-08-15,2025-08-15,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E058,Ganesh Chaturthi,holiday,2025-08-27,2025-08-27,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E059,Ganesh Chaturthi,holiday,2025-08-27,2025-08-27,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E060,Month-End Close,batch,2025-08-29,2025-08-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E061,Monthly Model Retraining,batch,2025-09-01,2025-09-03,GPU,ml,55.0,1,1
+E062,Quarter-End Reporting,batch,2025-09-26,2025-09-30,Analytics;Database;Compute,data;finance,70.0,1,1
+E063,Monthly Model Retraining,batch,2025-10-01,2025-10-03,GPU,ml,55.0,1,1
+E064,Dussehra / Gandhi Jayanti,holiday,2025-10-02,2025-10-02,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E065,Dussehra / Gandhi Jayanti,holiday,2025-10-02,2025-10-02,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E066,Diwali Festive Sale,sale,2025-10-08,2025-10-22,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,40.0,0,1
+E067,Diwali Festive Sale,sale,2025-10-08,2025-10-22,Compute;Serverless;Containers,ml,14.0,0,1
+E068,Quarterly Release & Load Test,release,2025-10-13,2025-10-17,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E069,Diwali,holiday,2025-10-20,2025-10-22,Compute;Network;Serverless;Database,ecommerce;consumer,20.0,0,1
+E070,Diwali,holiday,2025-10-20,2025-10-22,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E071,Month-End Close,batch,2025-10-29,2025-10-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E072,Monthly Model Retraining,batch,2025-11-01,2025-11-03,GPU,ml,55.0,1,1
+E073,Black Friday Sale,sale,2025-11-26,2025-11-30,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,35.0,0,1
+E074,Black Friday Sale,sale,2025-11-26,2025-11-30,Compute;Serverless;Containers,ml,12.2,0,1
+E075,Month-End Close,batch,2025-11-28,2025-11-30,Analytics;Database;Compute,data;finance,35.0,1,1
+E076,Monthly Model Retraining,batch,2025-12-01,2025-12-03,GPU,ml,55.0,1,1
+E077,Year-End Sale,sale,2025-12-24,2025-12-31,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,28.0,0,1
+E078,Year-End Sale,sale,2025-12-24,2025-12-31,Compute;Serverless;Containers,ml,9.8,0,1
+E079,Christmas,holiday,2025-12-25,2025-12-25,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E080,Christmas,holiday,2025-12-25,2025-12-25,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E081,Quarter-End Reporting,batch,2025-12-27,2025-12-31,Analytics;Database;Compute,data;finance,70.0,1,1
+E082,Monthly Model Retraining,batch,2026-01-01,2026-01-03,GPU,ml,55.0,1,1
+E083,New Year,holiday,2026-01-01,2026-01-01,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E084,New Year,holiday,2026-01-01,2026-01-01,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E085,Quarterly Release & Load Test,release,2026-01-12,2026-01-16,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E086,Republic Day Sale,sale,2026-01-22,2026-01-27,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,25.0,0,1
+E087,Republic Day Sale,sale,2026-01-22,2026-01-27,Compute;Serverless;Containers,ml,8.8,0,1
+E088,Republic Day,holiday,2026-01-26,2026-01-26,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E089,Republic Day,holiday,2026-01-26,2026-01-26,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E090,Month-End Close,batch,2026-01-29,2026-01-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E091,Monthly Model Retraining,batch,2026-02-01,2026-02-03,GPU,ml,55.0,1,1
+E092,Month-End Close,batch,2026-02-26,2026-02-28,Analytics;Database;Compute,data;finance,35.0,1,1
+E093,Monthly Model Retraining,batch,2026-03-01,2026-03-03,GPU,ml,55.0,1,1
+E094,Holi,holiday,2026-03-04,2026-03-04,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E095,Holi,holiday,2026-03-04,2026-03-04,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E096,Eid al-Fitr,holiday,2026-03-21,2026-03-21,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E097,Eid al-Fitr,holiday,2026-03-21,2026-03-21,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E098,Quarter-End Reporting,batch,2026-03-27,2026-03-31,Analytics;Database;Compute,data;finance,70.0,1,1
+E099,Monthly Model Retraining,batch,2026-04-01,2026-04-03,GPU,ml,55.0,1,1
+E100,Quarterly Release & Load Test,release,2026-04-13,2026-04-17,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E101,Month-End Close,batch,2026-04-28,2026-04-30,Analytics;Database;Compute,data;finance,35.0,1,1
+E102,Monthly Model Retraining,batch,2026-05-01,2026-05-03,GPU,ml,55.0,1,1
+E103,Summer Mega Sale,sale,2026-05-02,2026-05-06,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,20.0,0,1
+E104,Summer Mega Sale,sale,2026-05-02,2026-05-06,Compute;Serverless;Containers,ml,7.0,0,1
+E105,Month-End Close,batch,2026-05-29,2026-05-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E106,Monthly Model Retraining,batch,2026-06-01,2026-06-03,GPU,ml,55.0,1,1
+E107,End-of-Season Sale,sale,2026-06-25,2026-07-04,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,30.0,0,1
+E108,End-of-Season Sale,sale,2026-06-25,2026-07-04,Compute;Serverless;Containers,ml,10.5,0,1
+E109,Quarter-End Reporting,batch,2026-06-26,2026-06-30,Analytics;Database;Compute,data;finance,70.0,1,1
+E110,Monthly Model Retraining,batch,2026-07-01,2026-07-03,GPU,ml,55.0,1,1
+E111,Quarterly Release & Load Test,release,2026-07-13,2026-07-17,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E112,Month-End Close,batch,2026-07-29,2026-07-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E113,Monthly Model Retraining,batch,2026-08-01,2026-08-03,GPU,ml,55.0,1,1
+E114,Independence Day Sale,sale,2026-08-12,2026-08-16,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,22.0,0,1
+E115,Independence Day Sale,sale,2026-08-12,2026-08-16,Compute;Serverless;Containers,ml,7.7,0,1
+E116,Independence Day,holiday,2026-08-15,2026-08-15,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E117,Independence Day,holiday,2026-08-15,2026-08-15,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E118,Month-End Close,batch,2026-08-29,2026-08-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E119,Monthly Model Retraining,batch,2026-09-01,2026-09-03,GPU,ml,55.0,1,1
+E120,Ganesh Chaturthi,holiday,2026-09-14,2026-09-14,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E121,Ganesh Chaturthi,holiday,2026-09-14,2026-09-14,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E122,Quarter-End Reporting,batch,2026-09-26,2026-09-30,Analytics;Database;Compute,data;finance,70.0,1,1
+E123,Monthly Model Retraining,batch,2026-10-01,2026-10-03,GPU,ml,55.0,1,1
+E124,Gandhi Jayanti,holiday,2026-10-02,2026-10-02,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E125,Gandhi Jayanti,holiday,2026-10-02,2026-10-02,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E126,Quarterly Release & Load Test,release,2026-10-12,2026-10-16,Compute;Containers;Monitoring;Database,ecommerce;ml;data;consumer;internal;platform;finance,18.0,1,1
+E127,Diwali Festive Sale,sale,2026-10-14,2026-11-09,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,42.0,0,1
+E128,Diwali Festive Sale,sale,2026-10-14,2026-11-09,Compute;Serverless;Containers,ml,14.7,0,1
+E129,Dussehra,holiday,2026-10-20,2026-10-20,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E130,Dussehra,holiday,2026-10-20,2026-10-20,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E131,Month-End Close,batch,2026-10-29,2026-10-31,Analytics;Database;Compute,data;finance,35.0,1,1
+E132,Monthly Model Retraining,batch,2026-11-01,2026-11-03,GPU,ml,55.0,1,1
+E133,Diwali,holiday,2026-11-08,2026-11-10,Compute;Network;Serverless;Database,ecommerce;consumer,20.0,0,1
+E134,Diwali,holiday,2026-11-08,2026-11-10,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E135,Black Friday Sale,sale,2026-11-25,2026-11-29,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,36.0,0,1
+E136,Black Friday Sale,sale,2026-11-25,2026-11-29,Compute;Serverless;Containers,ml,12.6,0,1
+E137,Month-End Close,batch,2026-11-28,2026-11-30,Analytics;Database;Compute,data;finance,35.0,1,1
+E138,Monthly Model Retraining,batch,2026-12-01,2026-12-03,GPU,ml,55.0,1,1
+E139,Year-End Sale,sale,2026-12-24,2026-12-31,Compute;Database;Network;Serverless;Containers;Monitoring,ecommerce;consumer,29.0,0,1
+E140,Year-End Sale,sale,2026-12-24,2026-12-31,Compute;Serverless;Containers,ml,10.1,0,1
+E141,Christmas,holiday,2026-12-25,2026-12-25,Compute;Network;Serverless;Database,ecommerce;consumer,12.0,0,1
+E142,Christmas,holiday,2026-12-25,2026-12-25,Compute;Containers;Analytics;Serverless,ml;data;platform;internal;finance,-18.0,0,1
+E143,Quarter-End Reporting,batch,2026-12-27,2026-12-31,Analytics;Database;Compute,data;finance,70.0,1,1

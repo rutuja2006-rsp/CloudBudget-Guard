@@ -1,0 +1,10 @@
+service_id,service,aws_product,usage_unit,approx_unit_price_inr
+S01,Compute,Amazon EC2,vCPU-hours,3.4
+S02,Storage,Amazon S3/EBS,GB-days,0.065
+S03,Database,Amazon RDS,DB-hours,18.0
+S04,Network,AWS Data Transfer,GB-transferred,6.5
+S05,GPU,Amazon SageMaker/EC2 GPU,GPU-hours,210.0
+S06,Serverless,AWS Lambda,M-invocations,17.0
+S07,Monitoring,Amazon CloudWatch,GB-logs-ingested,42.0
+S08,Containers,Amazon EKS,pod-hours,1.6
+S09,Analytics,Amazon Athena/Redshift,TB-scanned,410.0

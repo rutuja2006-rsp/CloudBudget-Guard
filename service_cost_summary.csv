@@ -1,0 +1,10 @@
+service,total_cost_inr,avg_utilization_pct,record_count,recommendation,priority
+Compute,71914669.58,45.780038693524524,8880,"Review instance sizing, idle instances and reserved capacity.",High
+GPU,51445506.25,54.6937542662116,8880,Check idle GPU instances and schedule non-production workloads.,Medium
+Database,39861145.08,43.59402272727273,8880,"Review database sizing, idle instances and query performance.",Medium
+Containers,35837424.34,55.275347301298105,8880,"Review resource requests, limits and underutilized clusters.",High
+Network,26015371.81,34.165662444368365,8880,"Inspect data transfer, cross-region traffic and caching.",Medium
+Analytics,24498998.32,38.57464981209429,8880,"Review scan volume, query efficiency and workload scheduling.",High
+Storage,22574296.93,62.61741847517328,8880,"Review storage tiers, retention policies and unattached volumes.",Medium
+Serverless,9648941.03,38.14234275296263,8880,"Review invocation volume, execution duration and memory settings.",Medium
+Monitoring,9488573.35,30.202343838889522,8880,Review resource utilization and usage patterns.,Medium

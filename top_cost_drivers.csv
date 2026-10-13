@@ -1,0 +1,37 @@
+team_id,team_name,service,total_cost_inr,avg_utilization_pct
+T03,Recommendation ML,GPU,25765146.39,65.54993178717599
+T06,Fraud & Risk Analytics,GPU,14844592.23,62.74550408719346
+T01,Checkout & Payments,Compute,10038955.25,51.88916323731138
+T04,Data Platform,Compute,8922729.19,51.908174386920976
+T02,Search & Discovery,Compute,8922341.66,51.74264305177112
+T04,Data Platform,Analytics,8690017.63,39.702173913043474
+T03,Recommendation ML,Compute,7882917.64,54.423972602739724
+T02,Search & Discovery,Database,7745762.79,48.53115646258504
+T05,Mobile App Backend,Compute,6839947.62,53.465896739130436
+T10,Logistics & Supply Chain,Compute,6692272.3,53.46639344262295
+T01,Checkout & Payments,Database,6602741.29,47.95177595628415
+T04,Data Platform,Storage,6599764.03,69.53556771545827
+T01,Checkout & Payments,Containers,6506858.31,57.948010973936896
+T09,Marketing Technology,Compute,5769146.89,53.54665757162346
+T08,DevOps Platform,Compute,5672106.42,52.97448840381992
+T02,Search & Discovery,Containers,5071752.34,57.11366120218579
+T08,DevOps Platform,Containers,4628994.46,56.34356164383562
+T05,Mobile App Backend,Containers,4451555.91,54.56909340659341
+T06,Fraud & Risk Analytics,Compute,4248440.77,49.856087551299595
+T05,Mobile App Backend,Database,3713794.12,10.261444141689372
+T10,Logistics & Supply Chain,Database,3654967.5,44.80149863760219
+T03,Recommendation ML,Containers,3291168.19,52.771700680272104
+T10,Logistics & Supply Chain,Containers,2985975.43,55.83446404341927
+T11,Finance Systems,Compute,2841127.44,52.77295081967213
+T06,Fraud & Risk Analytics,Storage,2740500.26,15.430968622100954
+T11,Finance Systems,Database,2668041.78,47.86957708049113
+T09,Marketing Technology,Containers,2378229.06,54.34767759562842
+T09,Marketing Technology,Database,2214218.63,45.14809264305177
+T07,Customer Support Tech,Compute,2209050.76,11.464207650273224
+T12,Security & Compliance,Compute,1875633.64,11.762106703146376
+T08,DevOps Platform,Database,1640645.46,45.69141689373297
+T11,Finance Systems,Analytics,1272636.55,41.089795918367344
+T07,Customer Support Tech,Database,976899.64,46.327891156462584
+T12,Security & Compliance,Database,812578.89,47.138683127572016
+T12,Security & Compliance,Containers,710226.45,52.8568894952251
+T07,Customer Support Tech,Storage,700431.14,66.20720108695652

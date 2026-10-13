@@ -1,0 +1,18 @@
+{
+  "forecast_model": "HistGradientBoostingRegressor",
+  "anomaly_model": "IsolationForest",
+  "features": [
+    "cutoff_day",
+    "days_in_month",
+    "days_remaining",
+    "mtd_spend_inr",
+    "monthly_budget_inr",
+    "last7_avg_inr",
+    "previous7_avg_inr",
+    "recent_trend_inr",
+    "runrate_forecast_inr"
+  ],
+  "dataset_type": "Synthetic",
+  "risk_score": "Residual-based prototype approximation",
+  "crossing_day": "Run-rate estimate"
+}
